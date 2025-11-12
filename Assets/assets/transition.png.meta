@@ -1,0 +1,3055 @@
+fileFormatVersion: 2
+guid: 43851a1bf94128347b995631133b5bd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2996119775627384186
+    second: transition_0
+  - first:
+      213: 3274540745008959323
+    second: transition_1
+  - first:
+      213: -8732939016653734301
+    second: transition_2
+  - first:
+      213: 4691209328771964438
+    second: transition_3
+  - first:
+      213: 2460449140604103120
+    second: transition_4
+  - first:
+      213: -6383919068748754157
+    second: transition_5
+  - first:
+      213: 3788956235258603842
+    second: transition_6
+  - first:
+      213: -858795165866806524
+    second: transition_7
+  - first:
+      213: 1012856329871889453
+    second: transition_8
+  - first:
+      213: 7470529273128267343
+    second: transition_9
+  - first:
+      213: 1435285491208573533
+    second: transition_10
+  - first:
+      213: -5561745836694432190
+    second: transition_11
+  - first:
+      213: -4981788209360717842
+    second: transition_12
+  - first:
+      213: -7279208131985407295
+    second: transition_13
+  - first:
+      213: 2528372488920480351
+    second: transition_14
+  - first:
+      213: 949319961340028472
+    second: transition_15
+  - first:
+      213: 9110314380052325994
+    second: transition_16
+  - first:
+      213: -500790543646783504
+    second: transition_17
+  - first:
+      213: 8676199888442593201
+    second: transition_18
+  - first:
+      213: -8625250566086952577
+    second: transition_19
+  - first:
+      213: 5041091158287629504
+    second: transition_20
+  - first:
+      213: -2615310854772078934
+    second: transition_21
+  - first:
+      213: -6674236791523299117
+    second: transition_22
+  - first:
+      213: 6449598685238231771
+    second: transition_23
+  - first:
+      213: -2441467652624220499
+    second: transition_24
+  - first:
+      213: -2134243417317392186
+    second: transition_25
+  - first:
+      213: 3024956009620412698
+    second: transition_26
+  - first:
+      213: 4713515077614689636
+    second: transition_27
+  - first:
+      213: 7754625399189381456
+    second: transition_28
+  - first:
+      213: 2717503150633272805
+    second: transition_29
+  - first:
+      213: 4102926252599840721
+    second: transition_30
+  - first:
+      213: -7907255413268342932
+    second: transition_31
+  - first:
+      213: 374408057245764513
+    second: transition_32
+  - first:
+      213: -2532795490787777532
+    second: transition_33
+  - first:
+      213: -1201262254387313614
+    second: transition_34
+  - first:
+      213: -7236947355754379352
+    second: transition_35
+  - first:
+      213: -4786119090353770808
+    second: transition_36
+  - first:
+      213: -1762149187893724270
+    second: transition_37
+  - first:
+      213: -3409007017239675197
+    second: transition_38
+  - first:
+      213: 1359665423236538480
+    second: transition_39
+  - first:
+      213: -1348890044891531294
+    second: transition_40
+  - first:
+      213: -1358971969845702536
+    second: transition_41
+  - first:
+      213: -6607165546663696605
+    second: transition_42
+  - first:
+      213: 3574286100985289250
+    second: transition_43
+  - first:
+      213: 4811549295634817238
+    second: transition_44
+  - first:
+      213: -3626237747521863698
+    second: transition_45
+  - first:
+      213: -4075696823532537097
+    second: transition_46
+  - first:
+      213: 7403315584380311253
+    second: transition_47
+  - first:
+      213: -486301758025465042
+    second: transition_48
+  - first:
+      213: 1068918229958977451
+    second: transition_49
+  - first:
+      213: 8971465845166434893
+    second: transition_50
+  - first:
+      213: -8314423745047147928
+    second: transition_51
+  - first:
+      213: 4021826958608948371
+    second: transition_52
+  - first:
+      213: -6255015236603553272
+    second: transition_53
+  - first:
+      213: 2220570896134413845
+    second: transition_54
+  - first:
+      213: 2529641012803760177
+    second: transition_55
+  - first:
+      213: 6442157123876597567
+    second: transition_56
+  - first:
+      213: 4767203471528781862
+    second: transition_57
+  - first:
+      213: 3534256706892705351
+    second: transition_58
+  - first:
+      213: 4349440996753843044
+    second: transition_59
+  - first:
+      213: -7288849095525809079
+    second: transition_60
+  - first:
+      213: -7369719023143890524
+    second: transition_61
+  - first:
+      213: 6661069422748897680
+    second: transition_62
+  - first:
+      213: -6736054325912039409
+    second: transition_63
+  - first:
+      213: -5400530695878092260
+    second: transition_64
+  - first:
+      213: 8827951676725571609
+    second: transition_65
+  - first:
+      213: 5630563206223328954
+    second: transition_66
+  - first:
+      213: 585006377762547208
+    second: transition_67
+  - first:
+      213: -311676894618787549
+    second: transition_68
+  - first:
+      213: 6702476174834800541
+    second: transition_69
+  - first:
+      213: -2142127312173755656
+    second: transition_70
+  - first:
+      213: 297985915960730947
+    second: transition_71
+  - first:
+      213: -1223395277726495132
+    second: transition_72
+  - first:
+      213: 8082428775333788353
+    second: transition_73
+  - first:
+      213: -130392389531796528
+    second: transition_74
+  - first:
+      213: -1848982864920264546
+    second: transition_75
+  - first:
+      213: 6201110618846972097
+    second: transition_76
+  - first:
+      213: 2034499976764782521
+    second: transition_77
+  - first:
+      213: 4348556630332181859
+    second: transition_78
+  - first:
+      213: -3961318723975603270
+    second: transition_79
+  - first:
+      213: 2545064214402791303
+    second: transition_80
+  - first:
+      213: 7174957226264520043
+    second: transition_81
+  - first:
+      213: -6232564741107333932
+    second: transition_82
+  - first:
+      213: -1036181910914866875
+    second: transition_83
+  - first:
+      213: 2414719056812310227
+    second: transition_84
+  - first:
+      213: 9200344769944447613
+    second: transition_85
+  - first:
+      213: -3813422423381876394
+    second: transition_86
+  - first:
+      213: 9181090136170733531
+    second: transition_87
+  - first:
+      213: -1488089969112493518
+    second: transition_88
+  - first:
+      213: 3785432386725330379
+    second: transition_89
+  - first:
+      213: 5569715546328241713
+    second: transition_90
+  - first:
+      213: -1718960697886985284
+    second: transition_91
+  - first:
+      213: -8437855600256500071
+    second: transition_92
+  - first:
+      213: 6821065196280710737
+    second: transition_93
+  - first:
+      213: -4582514623409956023
+    second: transition_94
+  - first:
+      213: 1245428827659531670
+    second: transition_95
+  - first:
+      213: 7473628096263460749
+    second: transition_96
+  - first:
+      213: -1345224373202009620
+    second: transition_97
+  - first:
+      213: -8791743465144979684
+    second: transition_98
+  - first:
+      213: -9136997358436113459
+    second: transition_99
+  - first:
+      213: 6477919908098025360
+    second: transition_100
+  - first:
+      213: -3213441507101786023
+    second: transition_101
+  - first:
+      213: 623447761208233618
+    second: transition_102
+  - first:
+      213: -6876811310721380294
+    second: transition_103
+  - first:
+      213: 1329346383697905557
+    second: transition_104
+  - first:
+      213: -586239895705986909
+    second: transition_105
+  - first:
+      213: 4525104367589502397
+    second: transition_106
+  - first:
+      213: 5172178150721185189
+    second: transition_107
+  - first:
+      213: -3288258218159909297
+    second: transition_108
+  - first:
+      213: 1731825443505260100
+    second: transition_109
+  - first:
+      213: 153727715697078384
+    second: transition_110
+  - first:
+      213: -114814166819331749
+    second: transition_111
+  - first:
+      213: 2413308455456599135
+    second: transition_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: transition_0
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 137
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a751bc2df0b549920800000000000000
+      internalID: 2996119775627384186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_1
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 143
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f4dc45571817d20800000000000000
+      internalID: 3274540745008959323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_2
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 137
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e7433cb3e5ec680800000000000000
+      internalID: -8732939016653734301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_3
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 143
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e937887068a1140800000000000000
+      internalID: 4691209328771964438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_4
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 111
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d96f951575452220800000000000000
+      internalID: 2460449140604103120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_5
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 137
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31353603e63c767a0800000000000000
+      internalID: -6383919068748754157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_6
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 106
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24927180f93159430800000000000000
+      internalID: 3788956235258603842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_7
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 137
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403bfa3c852f414f0800000000000000
+      internalID: -858795165866806524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_8
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 139
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24158637736e0e00800000000000000
+      internalID: 1012856329871889453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_9
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 95
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ea7f81bc6aca760800000000000000
+      internalID: 7470529273128267343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_10
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 139
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5252cebc882be310800000000000000
+      internalID: 1435285491208573533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_11
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 138
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24612d001a5b0d2b0800000000000000
+      internalID: -5561745836694432190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_12
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 151
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee733daa4022ddab0800000000000000
+      internalID: -4981788209360717842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_13
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 82
+        width: 152
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c200e655ce0bfa90800000000000000
+      internalID: -7279208131985407295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_14
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 138
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ab9fdf165961320800000000000000
+      internalID: 2528372488920480351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_15
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 151
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8362cd1a979ac2d00800000000000000
+      internalID: 949319961340028472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_16
+      rect:
+        serializedVersion: 2
+        x: 3970
+        y: 139
+        width: 103
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66e62ff8a65e6e70800000000000000
+      internalID: 9110314380052325994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_17
+      rect:
+        serializedVersion: 2
+        x: 3981
+        y: 62
+        width: 198
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f70f0367a5dc09f0800000000000000
+      internalID: -500790543646783504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_18
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 139
+        width: 103
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf87ee74dd086870800000000000000
+      internalID: 8676199888442593201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_19
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 136
+        width: 161
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7976a50f44fc4880800000000000000
+      internalID: -8625250566086952577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_20
+      rect:
+        serializedVersion: 2
+        x: 4419
+        y: 34
+        width: 282
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccb81a13bd85f540800000000000000
+      internalID: 5041091158287629504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_21
+      rect:
+        serializedVersion: 2
+        x: 4567
+        y: 136
+        width: 161
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6461452ac84bbd0800000000000000
+      internalID: -2615310854772078934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_22
+      rect:
+        serializedVersion: 2
+        x: 4839
+        y: 139
+        width: 193
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0396eeff85063a0800000000000000
+      internalID: -6674236791523299117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_23
+      rect:
+        serializedVersion: 2
+        x: 4862
+        y: 3
+        width: 356
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2837135d3918950800000000000000
+      internalID: 6449598685238231771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_24
+      rect:
+        serializedVersion: 2
+        x: 5048
+        y: 139
+        width: 193
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daef9bafa1a2e1ed0800000000000000
+      internalID: -2441467652624220499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_25
+      rect:
+        serializedVersion: 2
+        x: 5289
+        y: 139
+        width: 207
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0c49e6be4a162e0800000000000000
+      internalID: -2134243417317392186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_26
+      rect:
+        serializedVersion: 2
+        x: 5304
+        y: 0
+        width: 432
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a199b9eb67dcaf920800000000000000
+      internalID: 3024956009620412698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_27
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 139
+        width: 207
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ddba46df4c96140800000000000000
+      internalID: 4713515077614689636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_28
+      rect:
+        serializedVersion: 2
+        x: 5759
+        y: 0
+        width: 217
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051a7ecf6b6fd9b60800000000000000
+      internalID: 7754625399189381456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_29
+      rect:
+        serializedVersion: 2
+        x: 5778
+        y: 0
+        width: 444
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e54081b7b286b520800000000000000
+      internalID: 2717503150633272805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_30
+      rect:
+        serializedVersion: 2
+        x: 6024
+        y: 0
+        width: 6672
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df86d140b580f830800000000000000
+      internalID: 4102926252599840721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_31
+      rect:
+        serializedVersion: 2
+        x: 12498
+        y: 0
+        width: 444
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c671bd79819c34290800000000000000
+      internalID: -7907255413268342932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_32
+      rect:
+        serializedVersion: 2
+        x: 12744
+        y: 0
+        width: 217
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab8d25f42a223500800000000000000
+      internalID: 374408057245764513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_33
+      rect:
+        serializedVersion: 2
+        x: 12969
+        y: 139
+        width: 207
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40422e2abe3b9dcd0800000000000000
+      internalID: -2532795490787777532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_34
+      rect:
+        serializedVersion: 2
+        x: 12984
+        y: 0
+        width: 432
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234c82d1852445fe0800000000000000
+      internalID: -1201262254387313614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_35
+      rect:
+        serializedVersion: 2
+        x: 13224
+        y: 139
+        width: 207
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7ce0219b2319b90800000000000000
+      internalID: -7236947355754379352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_36
+      rect:
+        serializedVersion: 2
+        x: 13479
+        y: 139
+        width: 193
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce6fb69b0a449db0800000000000000
+      internalID: -4786119090353770808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_37
+      rect:
+        serializedVersion: 2
+        x: 13502
+        y: 3
+        width: 356
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bf95e56a69b87e0800000000000000
+      internalID: -1762149187893724270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_38
+      rect:
+        serializedVersion: 2
+        x: 13688
+        y: 139
+        width: 193
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce7d94fd26c0b0d0800000000000000
+      internalID: -3409007017239675197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_39
+      rect:
+        serializedVersion: 2
+        x: 13992
+        y: 136
+        width: 161
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0702565af708ed210800000000000000
+      internalID: 1359665423236538480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_40
+      rect:
+        serializedVersion: 2
+        x: 14019
+        y: 34
+        width: 282
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7fd21a6a7c74de0800000000000000
+      internalID: -1348890044891531294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_41
+      rect:
+        serializedVersion: 2
+        x: 14167
+        y: 136
+        width: 161
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87052ad8136f32de0800000000000000
+      internalID: -1358971969845702536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_42
+      rect:
+        serializedVersion: 2
+        x: 14530
+        y: 139
+        width: 103
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32729ea01f1ae44a0800000000000000
+      internalID: -6607165546663696605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_43
+      rect:
+        serializedVersion: 2
+        x: 14541
+        y: 62
+        width: 198
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a18de754a6a9130800000000000000
+      internalID: 3574286100985289250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_44
+      rect:
+        serializedVersion: 2
+        x: 14647
+        y: 139
+        width: 103
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d02899779e06c240800000000000000
+      internalID: 4811549295634817238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_45
+      rect:
+        serializedVersion: 2
+        x: 15033
+        y: 138
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefb8d33bf30dadc0800000000000000
+      internalID: -3626237747521863698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_46
+      rect:
+        serializedVersion: 2
+        x: 15037
+        y: 151
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fab72d35573077c0800000000000000
+      internalID: -4075696823532537097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_47
+      rect:
+        serializedVersion: 2
+        x: 15044
+        y: 82
+        width: 152
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d61a1fac4cddb660800000000000000
+      internalID: 7403315584380311253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_48
+      rect:
+        serializedVersion: 2
+        x: 15130
+        y: 138
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e238e3ba02f4049f0800000000000000
+      internalID: -486301758025465042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_49
+      rect:
+        serializedVersion: 2
+        x: 15145
+        y: 151
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7e4ae777f85de00800000000000000
+      internalID: 1068918229958977451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_50
+      rect:
+        serializedVersion: 2
+        x: 15539
+        y: 139
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ae1bf37ac018c70800000000000000
+      internalID: 8971465845166434893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_51
+      rect:
+        serializedVersion: 2
+        x: 15551
+        y: 95
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a4464d7ab3d9c80800000000000000
+      internalID: -8314423745047147928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_52
+      rect:
+        serializedVersion: 2
+        x: 15606
+        y: 139
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cd9ff6f4660d730800000000000000
+      internalID: 4021826958608948371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_53
+      rect:
+        serializedVersion: 2
+        x: 16040
+        y: 137
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ad69568c8b139a0800000000000000
+      internalID: -6255015236603553272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_54
+      rect:
+        serializedVersion: 2
+        x: 16046
+        y: 106
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e99a6077d01de10800000000000000
+      internalID: 2220570896134413845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_55
+      rect:
+        serializedVersion: 2
+        x: 16082
+        y: 137
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1307d6939171b1320800000000000000
+      internalID: 2529641012803760177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_56
+      rect:
+        serializedVersion: 2
+        x: 16529
+        y: 111
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3faaeba5c3276950800000000000000
+      internalID: 6442157123876597567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_57
+      rect:
+        serializedVersion: 2
+        x: 17015
+        y: 137
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6286b74bc42882240800000000000000
+      internalID: 4767203471528781862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_58
+      rect:
+        serializedVersion: 2
+        x: 17017
+        y: 143
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ea167efb33c0130800000000000000
+      internalID: 3534256706892705351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_59
+      rect:
+        serializedVersion: 2
+        x: 17042
+        y: 137
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463a80fca815c5c30800000000000000
+      internalID: 4349440996753843044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_60
+      rect:
+        serializedVersion: 2
+        x: 17049
+        y: 143
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944c1c79d5ec8da90800000000000000
+      internalID: -7288849095525809079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_61
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 127
+        width: 958
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1d11b489f79b990800000000000000
+      internalID: -7369719023143890524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_62
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 120
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0911a2f195fd07c50800000000000000
+      internalID: 6661069422748897680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_63
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 129
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00974c974ab482a0800000000000000
+      internalID: -6736054325912039409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_64
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 139
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ad79102f57d05b0800000000000000
+      internalID: -5400530695878092260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_65
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 120
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910ba89074f238a70800000000000000
+      internalID: 8827951676725571609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_66
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 60
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab673507767c32e40800000000000000
+      internalID: 5630563206223328954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_67
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 116
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806efd9733c5e1800800000000000000
+      internalID: 585006377762547208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_68
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 125
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321ec830483bcabf0800000000000000
+      internalID: -311676894618787549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_69
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 116
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d971c8cd19af30d50800000000000000
+      internalID: 6702476174834800541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_70
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 114
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2983e1f82a542e0800000000000000
+      internalID: -2142127312173755656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_71
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 101
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345a8ec9c98a22400800000000000000
+      internalID: 297985915960730947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_72
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 101
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ec83b0a70a50fe0800000000000000
+      internalID: -1223395277726495132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_73
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 94
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca7a2c062e8a2070800000000000000
+      internalID: 8082428775333788353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_74
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 94
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbfa8400d0c03ef0800000000000000
+      internalID: -130392389531796528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_75
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 79
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90c4a471e71756e0800000000000000
+      internalID: -1848982864920264546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_76
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 79
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8c641c045ce0650800000000000000
+      internalID: 6201110618846972097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_77
+      rect:
+        serializedVersion: 2
+        x: 3970
+        y: 49
+        width: 103
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7fa9a13fefb3c10800000000000000
+      internalID: 2034499976764782521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_78
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 49
+        width: 103
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d8e94373d295c30800000000000000
+      internalID: 4348556630332181859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_79
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 20
+        width: 161
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb9457cb919609c0800000000000000
+      internalID: -3961318723975603270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_80
+      rect:
+        serializedVersion: 2
+        x: 4567
+        y: 20
+        width: 161
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787790e2b62e15320800000000000000
+      internalID: 2545064214402791303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_81
+      rect:
+        serializedVersion: 2
+        x: 4839
+        y: 0
+        width: 193
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b656e1e2591929360800000000000000
+      internalID: 7174957226264520043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_82
+      rect:
+        serializedVersion: 2
+        x: 5048
+        y: 0
+        width: 193
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d44ca6b36b7189a0800000000000000
+      internalID: -6232564741107333932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_83
+      rect:
+        serializedVersion: 2
+        x: 5289
+        y: 0
+        width: 207
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541eb3dba0ebe91f0800000000000000
+      internalID: -1036181910914866875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_84
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 0
+        width: 207
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3def9ad303ec28120800000000000000
+      internalID: 2414719056812310227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_85
+      rect:
+        serializedVersion: 2
+        x: 12969
+        y: 0
+        width: 207
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a69af92d03eaf70800000000000000
+      internalID: 9200344769944447613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_86
+      rect:
+        serializedVersion: 2
+        x: 13224
+        y: 0
+        width: 207
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65160d3a280041bc0800000000000000
+      internalID: -3813422423381876394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_87
+      rect:
+        serializedVersion: 2
+        x: 13479
+        y: 0
+        width: 193
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf9c49d5d8c96f70800000000000000
+      internalID: 9181090136170733531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_88
+      rect:
+        serializedVersion: 2
+        x: 13688
+        y: 0
+        width: 193
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2325a3dae0e395be0800000000000000
+      internalID: -1488089969112493518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_89
+      rect:
+        serializedVersion: 2
+        x: 13992
+        y: 20
+        width: 161
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdb50c13be888430800000000000000
+      internalID: 3785432386725330379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_90
+      rect:
+        serializedVersion: 2
+        x: 14167
+        y: 20
+        width: 161
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1369dde97ca9b4d40800000000000000
+      internalID: 5569715546328241713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_91
+      rect:
+        serializedVersion: 2
+        x: 14530
+        y: 49
+        width: 103
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3b69b4a560528e0800000000000000
+      internalID: -1718960697886985284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_92
+      rect:
+        serializedVersion: 2
+        x: 14647
+        y: 49
+        width: 103
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ebba88907b6ea80800000000000000
+      internalID: -8437855600256500071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_93
+      rect:
+        serializedVersion: 2
+        x: 15033
+        y: 79
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156871e08aa49ae50800000000000000
+      internalID: 6821065196280710737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_94
+      rect:
+        serializedVersion: 2
+        x: 15130
+        y: 79
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bdd9daa33a760c0800000000000000
+      internalID: -4582514623409956023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_95
+      rect:
+        serializedVersion: 2
+        x: 15539
+        y: 94
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6957da19be6a84110800000000000000
+      internalID: 1245428827659531670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_96
+      rect:
+        serializedVersion: 2
+        x: 15606
+        y: 94
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8799251829a7b760800000000000000
+      internalID: 7473628096263460749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_97
+      rect:
+        serializedVersion: 2
+        x: 16040
+        y: 101
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1c8145f8dc45de0800000000000000
+      internalID: -1345224373202009620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_98
+      rect:
+        serializedVersion: 2
+        x: 16082
+        y: 101
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1febab26e37df580800000000000000
+      internalID: -8791743465144979684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_99
+      rect:
+        serializedVersion: 2
+        x: 16994
+        y: 60
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3abb8ff4dd23180800000000000000
+      internalID: -9136997358436113459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_100
+      rect:
+        serializedVersion: 2
+        x: 17015
+        y: 116
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0972d9db5d136e950800000000000000
+      internalID: 6477919908098025360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_101
+      rect:
+        serializedVersion: 2
+        x: 17030
+        y: 125
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950c3be89ff8763d0800000000000000
+      internalID: -3213441507101786023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_102
+      rect:
+        serializedVersion: 2
+        x: 17042
+        y: 116
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e44d68f6ee6a800800000000000000
+      internalID: 623447761208233618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_103
+      rect:
+        serializedVersion: 2
+        x: 17049
+        y: 114
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30501d3c88a090a0800000000000000
+      internalID: -6876811310721380294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_104
+      rect:
+        serializedVersion: 2
+        x: 17502
+        y: 139
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59783c72e79c27210800000000000000
+      internalID: 1329346383697905557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_105
+      rect:
+        serializedVersion: 2
+        x: 17502
+        y: 120
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8584fbbe14dd7f0800000000000000
+      internalID: -586239895705986909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_106
+      rect:
+        serializedVersion: 2
+        x: 17514
+        y: 129
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdadb182766cce30800000000000000
+      internalID: 4525104367589502397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_107
+      rect:
+        serializedVersion: 2
+        x: 17524
+        y: 127
+        width: 1437
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5e5ccef9447c740800000000000000
+      internalID: 5172178150721185189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_108
+      rect:
+        serializedVersion: 2
+        x: 17524
+        y: 120
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46d1d09292cd52d0800000000000000
+      internalID: -3288258218159909297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_109
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 76
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4464d15b01ea80810800000000000000
+      internalID: 1731825443505260100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_110
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 76
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070b14efa86222200800000000000000
+      internalID: 153727715697078384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_111
+      rect:
+        serializedVersion: 2
+        x: 15037
+        y: 76
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b512d83af19186ef0800000000000000
+      internalID: -114814166819331749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_112
+      rect:
+        serializedVersion: 2
+        x: 15145
+        y: 76
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cefe4014bcd7120800000000000000
+      internalID: 2413308455456599135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      transition_0: 2996119775627384186
+      transition_1: 3274540745008959323
+      transition_10: 1435285491208573533
+      transition_100: 6477919908098025360
+      transition_101: -3213441507101786023
+      transition_102: 623447761208233618
+      transition_103: -6876811310721380294
+      transition_104: 1329346383697905557
+      transition_105: -586239895705986909
+      transition_106: 4525104367589502397
+      transition_107: 5172178150721185189
+      transition_108: -3288258218159909297
+      transition_109: 1731825443505260100
+      transition_11: -5561745836694432190
+      transition_110: 153727715697078384
+      transition_111: -114814166819331749
+      transition_112: 2413308455456599135
+      transition_12: -4981788209360717842
+      transition_13: -7279208131985407295
+      transition_14: 2528372488920480351
+      transition_15: 949319961340028472
+      transition_16: 9110314380052325994
+      transition_17: -500790543646783504
+      transition_18: 8676199888442593201
+      transition_19: -8625250566086952577
+      transition_2: -8732939016653734301
+      transition_20: 5041091158287629504
+      transition_21: -2615310854772078934
+      transition_22: -6674236791523299117
+      transition_23: 6449598685238231771
+      transition_24: -2441467652624220499
+      transition_25: -2134243417317392186
+      transition_26: 3024956009620412698
+      transition_27: 4713515077614689636
+      transition_28: 7754625399189381456
+      transition_29: 2717503150633272805
+      transition_3: 4691209328771964438
+      transition_30: 4102926252599840721
+      transition_31: -7907255413268342932
+      transition_32: 374408057245764513
+      transition_33: -2532795490787777532
+      transition_34: -1201262254387313614
+      transition_35: -7236947355754379352
+      transition_36: -4786119090353770808
+      transition_37: -1762149187893724270
+      transition_38: -3409007017239675197
+      transition_39: 1359665423236538480
+      transition_4: 2460449140604103120
+      transition_40: -1348890044891531294
+      transition_41: -1358971969845702536
+      transition_42: -6607165546663696605
+      transition_43: 3574286100985289250
+      transition_44: 4811549295634817238
+      transition_45: -3626237747521863698
+      transition_46: -4075696823532537097
+      transition_47: 7403315584380311253
+      transition_48: -486301758025465042
+      transition_49: 1068918229958977451
+      transition_5: -6383919068748754157
+      transition_50: 8971465845166434893
+      transition_51: -8314423745047147928
+      transition_52: 4021826958608948371
+      transition_53: -6255015236603553272
+      transition_54: 2220570896134413845
+      transition_55: 2529641012803760177
+      transition_56: 6442157123876597567
+      transition_57: 4767203471528781862
+      transition_58: 3534256706892705351
+      transition_59: 4349440996753843044
+      transition_6: 3788956235258603842
+      transition_60: -7288849095525809079
+      transition_61: -7369719023143890524
+      transition_62: 6661069422748897680
+      transition_63: -6736054325912039409
+      transition_64: -5400530695878092260
+      transition_65: 8827951676725571609
+      transition_66: 5630563206223328954
+      transition_67: 585006377762547208
+      transition_68: -311676894618787549
+      transition_69: 6702476174834800541
+      transition_7: -858795165866806524
+      transition_70: -2142127312173755656
+      transition_71: 297985915960730947
+      transition_72: -1223395277726495132
+      transition_73: 8082428775333788353
+      transition_74: -130392389531796528
+      transition_75: -1848982864920264546
+      transition_76: 6201110618846972097
+      transition_77: 2034499976764782521
+      transition_78: 4348556630332181859
+      transition_79: -3961318723975603270
+      transition_8: 1012856329871889453
+      transition_80: 2545064214402791303
+      transition_81: 7174957226264520043
+      transition_82: -6232564741107333932
+      transition_83: -1036181910914866875
+      transition_84: 2414719056812310227
+      transition_85: 9200344769944447613
+      transition_86: -3813422423381876394
+      transition_87: 9181090136170733531
+      transition_88: -1488089969112493518
+      transition_89: 3785432386725330379
+      transition_9: 7470529273128267343
+      transition_90: 5569715546328241713
+      transition_91: -1718960697886985284
+      transition_92: -8437855600256500071
+      transition_93: 6821065196280710737
+      transition_94: -4582514623409956023
+      transition_95: 1245428827659531670
+      transition_96: 7473628096263460749
+      transition_97: -1345224373202009620
+      transition_98: -8791743465144979684
+      transition_99: -9136997358436113459
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
